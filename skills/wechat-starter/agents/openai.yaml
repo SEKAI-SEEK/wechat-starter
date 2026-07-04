@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat Starter"
+  short_description: "从零陪跑首个微信小程序或小游戏直到开发者工具预览"
+  default_prompt: "使用 $wechat-starter 带我从一个想法开始，逐步完成首个微信项目并在微信开发者工具中预览。"
